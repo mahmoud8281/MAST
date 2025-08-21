@@ -118,4 +118,4 @@ def main():
             print("[-] خيار غير صحيح.")
 
 if __name__ == "__main__":
-    main()
+    main() MAST
